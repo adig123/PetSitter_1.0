@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991579701310",
+    "firebase_url": "https://petsitter-c06dd.firebaseio.com",
+    "project_id": "petsitter-c06dd",
+    "storage_bucket": "petsitter-c06dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991579701310:android:53f7e37746444b3e",
+        "android_client_info": {
+          "package_name": "com.example.bonimoo_imac_one.pet_sitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991579701310-dvs90v0soi382efa9pp3trticmgaprca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonimoo_imac_one.pet_sitter",
+            "certificate_hash": "cd295fe93a375ac39ce76a8ce84153aaa7fb6e75"
+          }
+        },
+        {
+          "client_id": "991579701310-b2227o899q0jo56o7l5e7ge587l5m97v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0iRPxhk-vCnbLTYAH4UAr-rPCffdrbM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991579701310-b2227o899q0jo56o7l5e7ge587l5m97v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
